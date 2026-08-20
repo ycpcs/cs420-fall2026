@@ -34,7 +34,7 @@ var courseInfo = {
         {
             topic: new Topic( "Operating System Structure", "lectures/lecture4_operating_system_structure.pdf" ),
             reading: new Reading("OSC10 § 2.7 - 2.11"),
-            assign: new Assignment("Assignment #1: filecopy", "assign/assign01.html", 7)
+            assign: new Assignment("Assignment #1: filecopy", "assign/assign01.html", 9)
         },
         {
             topic: new Topic( "Processes", "lectures/lecture5_processes.pdf" ),
