@@ -378,7 +378,7 @@ Points may be deducted for poor coding practices, such as failing to check error
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-> **<font color="red">⚠ Do not manually zip your project and upload it to Marmoset.** Use one of the submission methods below.</font>
+> <font color="red"><strong>⚠ Do not manually zip your project and upload it to Marmoset. Use one of the submission methods below.</strong></font>
 
 You can submit your assignment from within **CLion** or from a terminal.
 
